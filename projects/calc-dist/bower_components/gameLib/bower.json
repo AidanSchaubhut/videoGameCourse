@@ -1,0 +1,21 @@
+{
+  "name": "gameLib",
+  "main": "index.js",
+  "homepage": "https://github.com/AidanSchaubhut/gameLib",
+  "authors": [
+    "AidanSchaubhut <aidanjs1208@gmail.com>"
+  ],
+  "description": "Video game Library",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "lodash": "^4.17.20",
+    "gameLib": "https://github.com/AidanSchaubhut/gameLib.git"
+  }
+}

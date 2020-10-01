@@ -1,0 +1,32 @@
+{
+  "name": "gameLib",
+  "main": "index.js",
+  "homepage": "https://github.com/AidanSchaubhut/gameLib",
+  "authors": [
+    "AidanSchaubhut <aidanjs1208@gmail.com>"
+  ],
+  "description": "Video game Library",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "lodash": "^4.17.20",
+    "gameLib": "https://github.com/AidanSchaubhut/gameLib.git"
+  },
+  "version": "0.2.0",
+  "_release": "0.2.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.2.0",
+    "commit": "4fa41ed8c2c995c3299dad7db3dc576f66a08efa"
+  },
+  "_source": "https://github.com/AidanSchaubhut/gameLib.git",
+  "_target": "v0.2.0",
+  "_originalSource": "https://github.com/AidanSchaubhut/gameLib.git",
+  "_direct": true
+}
